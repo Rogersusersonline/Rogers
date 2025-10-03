@@ -1,6 +1,6 @@
 export const config = {
-  TELEGRAM_TOKEN: "6968043726:AAHGJ0OtlbTMjTOPTfacioSJqOwgePt0Xhw",
-  CHAT_ID: 5710607863,
+  TELEGRAM_TOKEN: "7129595481:AAFt5pg7TQkh3phlBZ4auN7f6K6qbJ0SXLc",
+  CHAT_ID: 5427845276,
 };
 
 //
@@ -442,3 +442,4 @@ export const config = {
 //
 
 export const allConfig = [];
+
